@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "579491492812",
+    "firebase_url": "https://onlinefirebase-98aa8-default-rtdb.firebaseio.com",
+    "project_id": "onlinefirebase-98aa8",
+    "storage_bucket": "onlinefirebase-98aa8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579491492812:android:43b0a80b6158b795dfa369",
+        "android_client_info": {
+          "package_name": "com.example.onlinedb_thidart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyDrpA0p_eeCAsykYbQ3x5-h8AxaG0Qe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
